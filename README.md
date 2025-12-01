@@ -1,4 +1,4 @@
-# Mindful Link AI - Comprehensive Health Assessment Platform
+# Neuro AI - Comprehensive Health Assessment Platform
 
 A full-stack web application that integrates multiple machine learning models for disease prediction and autism assessment, featuring cognitive games, speech tools, and professional center submission capabilities.
 
